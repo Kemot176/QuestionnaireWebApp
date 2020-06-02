@@ -11,7 +11,7 @@
 
 # Repozytorium:
 
-[Część front-end](https://github.com/Kemot176/projektinz)
+[Część front-end](https://github.com/Kemot176/projektinz) <br>
 [Część back-end](https://github.com/snodom/questionnaire-app)
 
 
