@@ -32,6 +32,13 @@ Funkcjonalności przewidziane dla administratora: <br>
 - podgląd odpowiedzi anonimowych użytkowników <br>
 - możliwość sprawdzenia czy osoba, która otrzymała odpowiedni token przystąpiła do wypelniania ankiety  <br>
 
+Funkcjonalności przewidziane dla użytkownika: <br>
+
+- możliwość generowania unikalnego kodu dostępu na podstawie tokenu 
+- możliwość udzielania odpowiedzi dla ankiety związanej z wygenerowanym kodem 
+- możliwość sprawedzenia własnych odpowiedzi 
+
+
 
 
 
