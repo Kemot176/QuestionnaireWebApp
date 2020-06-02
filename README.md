@@ -1,5 +1,8 @@
 # QuestionnaireWebApp
 
+# Cel projektu:
+
+Celem  zadania  projektowego  było  wykonanie  systemu  webowego  umożliwiającego przeprowadzanie ankiet online w sposób anonimowy. 
 
 
 # Film prezentacyjny:
@@ -14,10 +17,6 @@
 [Część front-end](https://github.com/Kemot176/projektinz) <br>
 [Część back-end](https://github.com/snodom/questionnaire-app)
 
-
-# Cel projektu:
-
-Celem  zadania  projektowego  było  wykonanie  systemu  webowego  umożliwiającego przeprowadzanie ankiet online w sposób anonimowy. 
 
 # Założenia projektowe:
 
