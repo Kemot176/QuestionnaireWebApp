@@ -11,6 +11,10 @@
 
 # Repozytorium:
 
+[Część front-end](https://github.com/Kemot176/projektinz)
+[Część back-end](https://github.com/snodom/questionnaire-app)
+
+
 # Cel projektu:
 
 Celem  zadania  projektowego  było  wykonanie  systemu  webowego  umożliwiającego przeprowadzanie ankiet online w sposób anonimowy. 
