@@ -11,4 +11,8 @@
 
 # Cel projektu:
 
+Celem  zadania  projektowego  było  wykonanie  systemu  webowego  umożliwiającego przeprowadzanie ankiet online w sposób anonimowy. 
+
 # Założenia projektowe:
+
+Głownym założeniem projektowym było stworzenie web serwisu do przeprowadzenia badań anonimowych ankietowych online z możliwośćią podglądu przez użytkownika osobistych odpowiedzi. Aby spełnić załozenia niezbędnym było opracowanie koncepcji działania web serisu. Następnym krokiem było zaprojektowenie bazy danych oraz implementacja wykoncypowanych rozwiązań.  
