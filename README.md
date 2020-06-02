@@ -21,3 +21,17 @@ Celem  zadania  projektowego  było  wykonanie  systemu  webowego  umożliwiają
 # Założenia projektowe:
 
 Głownym założeniem projektowym było stworzenie web serwisu do przeprowadzenia badań anonimowych ankietowych online z możliwośćią podglądu przez użytkownika osobistych odpowiedzi. Aby spełnić załozenia niezbędnym było opracowanie koncepcji działania web serisu. Następnym krokiem było zaprojektowenie bazy danych oraz implementacja wykoncypowanych rozwiązań.  
+
+# Opis dzialania systemu:
+
+Funkcjonalności przewidziane dla administratora: <br>
+
+- tworzenie ankiet <br>
+- generowanie wybranej ilości kodów dostępu dla ankiet <br>
+- generowanie wybranej ilości tokenów dla systemu generującego kody <br>
+- podgląd odpowiedzi anonimowych użytkowników <br>
+- możliwość sprawdzenia czy osoba, która otrzymała odpowiedni token przystąpiła do wypelniania ankiety  <br>
+
+
+
+
