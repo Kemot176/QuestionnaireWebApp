@@ -2,7 +2,7 @@
 
 # Cel projektu:
 
-Celem  zadania  projektowego  było  wykonanie  systemu  webowego  umożliwiającego przeprowadzanie ankiet online w sposób anonimowy. 
+Celem  zadania  projektowego  było  wykonanie  systemu  webowego  umożliwiającego przeprowadzanie badań ankietowych online w sposób anonimowy. 
 
 
 # Film prezentacyjny:
