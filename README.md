@@ -1,5 +1,7 @@
 # QuestionnaireWebApp
 
+[Strona internetowa QuestionnaireWebApp)(http://studentevent.pl/)
+
 # Cel projektu:
 
 Celem  zadania  projektowego  było  wykonanie  systemu  webowego  umożliwiającego przeprowadzanie badań ankietowych online w sposób anonimowy. 
