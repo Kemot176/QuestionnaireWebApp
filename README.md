@@ -30,7 +30,7 @@ Głownym założeniem projektowym było stworzenie web serwisu do przeprowadzeni
 
 Anonimowość: <br> <br> Administrator tworzy dla użytkownika token niepowiązany z kodem dostępu. Dzięki niemu użytkownik ma możliwość wygenerowania unikalnego kodu dostępu. 
 
-Sprawdzanie odpowiedzi przez użytkownika: <br> <br> Po przesłaniu odpowiedzi przez użytkownika zostaje stworzony szyfr, wygenerowany na podstawie kodu autoryzacji odpowiedzi oraz ciegu zaburzającego. Szyfr powstaje każdorazowo przy pobieraniu odpowiedzi z bazy danych. Dzięki zastosowaniu takiej funkcjonalości użytkownik ma możliwość sprawdzenia czy nikt nie ingerował w jego odpowiedzi. 
+Sprawdzanie odpowiedzi przez użytkownika: <br> <br> Po przesłaniu odpowiedzi przez użytkownika zostaje stworzony szyfr, wygenerowany na podstawie kodu autoryzacji, odpowiedzi oraz ciągu zaburzającego. Szyfr powstaje każdorazowo przy pobieraniu odpowiedzi z bazy danych. Dzięki zastosowaniu takiej funkcjonalości użytkownik ma możliwość sprawdzenia czy nikt nie ingerował w jego odpowiedzi. 
 
 
 Funkcjonalności przewidziane dla administratora: <br>
