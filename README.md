@@ -24,7 +24,7 @@ Celem  zadania  projektowego  było  wykonanie  systemu  webowego  umożliwiają
 
 # Założenia projektowe:
 
-Głownym założeniem projektowym było stworzenie web serwisu do przeprowadzenia badań anonimowych ankietowych online z możliwośćią podglądu przez użytkownika osobistych odpowiedzi. Aby spełnić załozenia niezbędnym było opracowanie koncepcji działania web serisu. Następnym krokiem było zaprojektowenie bazy danych oraz implementacja wykoncypowanych rozwiązań.  
+Głownym założeniem projektowym było stworzenie web serwisu do przeprowadzenia anonimowych badań ankietowych online z możliwośćią podglądu przez użytkownika osobistych odpowiedzi. Aby spełnić załozenia niezbędnym było opracowanie koncepcji działania web serisu. Następnym krokiem było zaprojektowenie bazy danych oraz implementacja wykoncypowanych rozwiązań.
 
 # Opis dzialania systemu:
 
