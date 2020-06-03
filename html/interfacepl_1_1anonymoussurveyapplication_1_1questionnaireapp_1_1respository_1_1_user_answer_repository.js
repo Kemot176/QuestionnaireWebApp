@@ -1,0 +1,7 @@
+var interfacepl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1respository_1_1_user_answer_repository =
+[
+    [ "findAll", "interfacepl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1respository_1_1_user_answer_repository.html#aa1d7985853b2499a754b811a44280736", null ],
+    [ "findAllByQuestionQuestionnaireQuestionnaireIdAndAuthorizationCode_IdAuthorizationCode", "interfacepl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1respository_1_1_user_answer_repository.html#af0b131446305df09a282beb9daac3010", null ],
+    [ "findByAuthorizationCode_IdAuthorizationCodeAndQuestionQuestionId", "interfacepl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1respository_1_1_user_answer_repository.html#a266f5ae5af5c14037b424e42b1b32cf0", null ],
+    [ "findUserAnswersByAuthorizationCode_IdAuthorizationCode", "interfacepl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1respository_1_1_user_answer_repository.html#ad3d0e95dae49244b7fa7b546b38f8ce8", null ]
+];

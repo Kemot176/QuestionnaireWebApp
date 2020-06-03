@@ -1,0 +1,4 @@
+var interfacepl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1respository_1_1_user_repository =
+[
+    [ "findAllByLogin", "interfacepl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1respository_1_1_user_repository.html#a7544fc0ec07aa38d7a3501480606bae3", null ]
+];

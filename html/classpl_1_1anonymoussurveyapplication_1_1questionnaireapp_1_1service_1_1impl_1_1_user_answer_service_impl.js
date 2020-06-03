@@ -1,0 +1,10 @@
+var classpl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1service_1_1impl_1_1_user_answer_service_impl =
+[
+    [ "findUserAnswersByAuthorizationCode_IdAuthorizationCode", "classpl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1service_1_1impl_1_1_user_answer_service_impl.html#a1116d76a1e2ffc9d18283430f101da45", null ],
+    [ "getAllAnswersByQuestionnaireIdAndAuthorizationCodeId", "classpl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1service_1_1impl_1_1_user_answer_service_impl.html#a746ab0c9e4fa733277d72d8ddf3885d3", null ],
+    [ "getOneAnswerByQuestionId", "classpl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1service_1_1impl_1_1_user_answer_service_impl.html#aa961de801f4b3ecd9d10070a84f73aae", null ],
+    [ "setUserAnswer", "classpl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1service_1_1impl_1_1_user_answer_service_impl.html#ac96664e991e53ac09ed86ba656f48745", null ],
+    [ "authorizationCodeRepository", "classpl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1service_1_1impl_1_1_user_answer_service_impl.html#a1a412d0bbcc4afa5ab73fb726c4d838b", null ],
+    [ "authorizationCodeService", "classpl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1service_1_1impl_1_1_user_answer_service_impl.html#a782fc0606d53ce24f78285156ff7cdc4", null ],
+    [ "userAnswerRepository", "classpl_1_1anonymoussurveyapplication_1_1questionnaireapp_1_1service_1_1impl_1_1_user_answer_service_impl.html#a013210c721eaa9a6aaf8c8bf59d581f2", null ]
+];
