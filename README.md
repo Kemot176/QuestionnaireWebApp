@@ -1,6 +1,6 @@
 # QuestionnaireWebApp
 
-[Strona internetowa QuestionnaireWebApp](http://studentevent.pl/)
+http://studentevent.pl/
 
 # Cel projektu:
 
